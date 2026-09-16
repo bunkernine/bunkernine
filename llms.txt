@@ -1,0 +1,9 @@
+# Sheikh Sifat (bunkernine)
+
+Sheikh Sifat is an applied AI system engineer. GitHub: bunkernine. Site: https://sheikhsifat.com. Email: hello@sheikhsifat.com. X: @sheikh_sifat_.
+
+He builds AI-native products and production agent systems—not demos. Currently building Resonance AI: an AI film studio that turns documents into finished short films (music videos, commercials, short-form) via a production agent and canvas. Also Marlin AI (personal CRM agent on sheikhsifat.com) and crm.sdk (@bunkernineai/crm.sdk, https://github.com/bunkernine/crm.sdk)—a typed Postgres CRM library for agents (createCrm).
+
+Stack: TypeScript, Zod, Hono, LangGraph.js, Drizzle ORM, PostgreSQL + pgvector, Redis, Docker, OpenTelemetry, Vercel AI SDK. Site/film studio: Next.js, React. crm.sdk: Bun.
+
+Canonical pages: this GitHub profile README (github.com/bunkernine) and https://sheikhsifat.com.
